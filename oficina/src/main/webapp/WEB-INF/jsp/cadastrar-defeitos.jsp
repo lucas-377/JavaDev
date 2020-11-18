@@ -66,7 +66,7 @@
 
                 <div class="botoes">
                     <a class="botao-voltar" href="/menu"><span class="botao-voltar-seta"><i class="fas fa-arrow-left"></i></span>Voltar ao menu</a>
-                    <button class="botao-salvar" type="submit">Salvar</button>
+                    <button class="botao-salvar" type="submit"><a style="color: #ffffff; text-decoration:none;" href="/sucesso">Salvar</a></button>
                 </div>
             </form>
         </div>

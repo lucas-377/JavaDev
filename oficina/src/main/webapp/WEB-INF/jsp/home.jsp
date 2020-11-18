@@ -57,6 +57,7 @@
                     de veículos</a>
                 <a href="#" class="botao">Cadastrar peças</a>
                 <a href="/cadastrar-defeitos" class="botao">Cadastrar defeitos</a>
+                <a href="#" class="botao">Consultar registros</a>
             </div>
         </div>
     </div>
