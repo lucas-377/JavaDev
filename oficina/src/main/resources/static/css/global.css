@@ -29,7 +29,8 @@
     --input-borda: #CECECE;
     --input-borda-ativo: #282828;
 
-    --tr-fundo: #F0F0F0;
+    --radio-fundo: #F0F0F0;
+    --radio-borda: #CECECE;
 }
 
 body {
@@ -66,7 +67,10 @@ h2 {
 	margin: 0 auto;
 	border-radius: 10px;
 	position: absolute;
-	display: none;
+    display: none;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .botao-fechar {
@@ -89,6 +93,7 @@ h2 {
 .titulo {
 	text-align: left;
 	font-weight: 900;
+	font-size: 24px;
 }
 
 .botoes {

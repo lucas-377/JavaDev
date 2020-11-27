@@ -1,0 +1,45 @@
+/* Modal */
+.modal-menu {
+	max-width: 410px;
+	padding: 0 30px;
+}
+
+.titulo {
+	margin: 20px 0 10px 0;
+}
+
+.botoes {
+	justify-content: space-between;
+	align-items: center;
+	margin: 30px 0;
+}
+
+.container-radios {
+	display: flex;
+	flex-direction: column;
+	height: 282px;
+	overflow-y: scroll;
+    align-items: center;
+}
+
+.radios-titulo {
+	margin-bottom: 1rem;
+    font-weight: 700;
+}
+
+.radio {
+	background-color: var(--radio-fundo);
+    border-bottom: 2px solid var(--radio-borda);
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.radio input {
+	margin-left: 1rem;
+	height: 50px;
+}
+
+.radio label {
+	margin-left: 3rem;
+}

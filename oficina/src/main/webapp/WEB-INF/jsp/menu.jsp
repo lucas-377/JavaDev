@@ -53,9 +53,9 @@
             <div class="botoes">
                 <a href="#" class="botao">Registro de <br>
                     defeitos veiculares</a>
-                <a href="#" class="botao">Cadastrar tipos <br>
+                <a href="/cadastrar-veiculo" class="botao">Cadastrar tipos <br>
                     de veículos</a>
-                <a href="#" class="botao">Cadastrar peças</a>
+                <a href="/cadastrar-pecas" class="botao">Cadastrar peças</a>
                 <a href="/cadastrar-defeitos" class="botao">Cadastrar defeitos</a>
                 <a href="#" class="botao">Consultar registros</a>
             </div>

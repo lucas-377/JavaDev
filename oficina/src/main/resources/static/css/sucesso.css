@@ -1,8 +1,6 @@
 /* Modal */
 .modal-menu {
 	max-width: 472px;
-	top: calc(50% - 220px);
-	left: calc(50% - 180px);
 	padding: 0 30px;
 }
 
