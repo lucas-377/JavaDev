@@ -51,13 +51,13 @@
             <h2 class="titulo">Sistema de oficina da MJV!</h2>
 
             <div class="botoes">
-                <a href="#" class="botao">Registro de <br>
+                <a href="/registro" class="botao">Registro de <br>
                     defeitos veiculares</a>
                 <a href="/cadastrar-veiculo" class="botao">Cadastrar tipos <br>
                     de veículos</a>
                 <a href="/cadastrar-pecas" class="botao">Cadastrar peças</a>
                 <a href="/cadastrar-defeitos" class="botao">Cadastrar defeitos</a>
-                <a href="#" class="botao">Consultar registros</a>
+                <a href="/registros" class="botao">Consultar registros</a>
             </div>
         </div>
     </div>
