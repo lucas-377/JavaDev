@@ -26,7 +26,7 @@ public class Caixa {
     
     public float calculaAreaExt(){
         float area;
-        area = 2*(largura*altura + largura*profundidade + altura*profundidade);
+        area = 2*( (largura*altura) + (largura*profundidade) + (altura*profundidade) );
         return area;
     }
     

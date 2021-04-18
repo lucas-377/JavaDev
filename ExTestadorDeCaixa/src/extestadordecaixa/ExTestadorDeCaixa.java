@@ -17,13 +17,13 @@ public class ExTestadorDeCaixa {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //Cria o Scanner para captação de entrada de dados.
+        Scanner teclado = new Scanner(System.in);
+        
         //Instancia objetos Caixa.
         Caixa c1, c2; // Referencia o "apelido" do objeto.
         c1 = new Caixa();
         c2 = new Caixa();
-        
-        //Cria o Scanner para captação de entrada de dados.
-        Scanner teclado = new Scanner(System.in);
         
         //Adquire dados do usuário e os define no objeto.
         System.out.print("Digite a altura da caixa 1: ");
